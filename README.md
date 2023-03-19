@@ -1,4 +1,1 @@
 # -EOSOS
-
-
-Furkan'a

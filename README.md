@@ -4,3 +4,10 @@ Eyes of Space Orbit Simulation (EOSOS), kullanıcıların Dünya yörüngesinde 
 
 
 ![EOSOS (1)](https://github.com/RozerinGozyan/-EOSOS/assets/76966609/428fc5d4-d70b-41de-8dfb-2761f8f7cd8c)
+
+
+
+![ARAYÜZ](https://github.com/RozerinGozyan/-EOSOS/assets/76966609/b5f070f1-be99-4871-964f-0d98872c9497)
+
+
+

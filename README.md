@@ -10,4 +10,8 @@ Eyes of Space Orbit Simulation (EOSOS), kullanıcıların Dünya yörüngesinde 
 ![ARAYÜZ](https://github.com/RozerinGozyan/-EOSOS/assets/76966609/b5f070f1-be99-4871-964f-0d98872c9497)
 
 
+![Uzaktan Algılama Uydusu Tarama Görseli](https://github.com/RozerinGozyan/-EOSOS/assets/76966609/df33954c-3ef1-4144-a8d4-57a59843eac6)
+
+![Nadir Kamera](https://github.com/RozerinGozyan/-EOSOS/assets/76966609/74e627d1-ed73-4706-b364-556dddbd9cde)
+
 
